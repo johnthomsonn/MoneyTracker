@@ -1,0 +1,10 @@
+/bin/
+/doc/
+/Output/
+/JUnit 5/
+/.settings/
+/src/moneytracker.test/
+/codemr/
+/doc/index-files/
+/doc/*.html
+*.jar
